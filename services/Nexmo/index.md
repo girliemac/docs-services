@@ -201,7 +201,7 @@ To deploy your application, you will be using the Cloud Foundry CLI again. You c
 $ cf push
 ```
 
-The process will take a while. Once your application is deployed to Bluemix and run correctly, Nexmo will send the message to your phone. The time of the actual delivery depends on your mobile phone carrier, so it can be instant, or it might take extra seconds.
+Once your application is deployed to Bluemix and run correctly, Nexmo will send the message to your phone. The time of the actual delivery depends on your mobile phone carrier, so it can be instant, or it might take extra seconds.
 
 ![SMS](images/sms-android.png)
 
